@@ -1,4 +1,4 @@
-
+# Incident Handler’s Journal  
 
 | Date: October  1, 2025 | Entry: \#2 |  |  |
 | :---- | :---- | ----- | ----- |
