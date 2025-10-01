@@ -1,0 +1,9 @@
+
+
+| Date: October  1, 2025 | Entry: \#4 |  |  |
+| :---- | :---- | ----- | ----- |
+| Description | Investigate a suspicious file hash |  |  |
+| Tool(s) used | For this activity, I used **VirusTotal**, an investigative tool that analyzes files and URLs for malicious content such as viruses, worms, and trojans. VirusTotal is especially valuable for quickly determining whether an indicator of compromise (IOC), such as a file hash or website, has already been flagged as malicious by others in the cybersecurity community. In this exercise, I analyzed a suspicious file hash, which was ultimately reported as malicious. The activity was designed to simulate the **Detection and Analysis phase** of an incident response process, placing me in the role of a SOC analyst. After the suspicious file was detected by security systems, my task was to conduct deeper analysis and investigation in order to determine whether the alert represented a genuine threat. |  |  |
+| The 5 W's  | **Who**: An unknown malicious actor. **What**: A phishing email was sent to an employee, containing a malicious file attachment. The attachment had the SHA-256 hash: `54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b`. **Where**: The incident occurred on an employee’s workstation within a financial services company. **When**: At **1:20 p.m.**, the organization’s SOC received an alert after the intrusion detection system flagged the file. **Why**: The employee downloaded and executed the malicious file attachment, triggering the security alert. |  |  |
+| Additional notes | While improving employee security awareness is essential, this incident highlights the importance of a layered defense strategy. Combining regular phishing awareness training with technical safeguards—such as advanced email filtering, attachment sandboxing, and endpoint protection—provides stronger resilience against similar threats in the future. |  |  |
+
