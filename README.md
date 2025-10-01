@@ -24,7 +24,7 @@ The goal of this journal is to sharpen my skills in:
 - **Summary:** First hands-on experience analyzing a packet capture with Wireshark.  
 - **Focus:** Learning the value of network traffic analysis in detecting malicious activity.  
 - **Key takeaway:** Wireshark is powerful but initially overwhelming; practice improves confidence.  
-- 🔗 [View detailed entry](./entries/entry-2.md)  
+- 🔗 [View detailed entry](https://github.com/dondex001/incident-handlers-journal/blob/main/Incident-handler's-journal-analyze-packet.md)  
 
 ### Entry #3 – Capturing Packets with tcpdump  
 - **Summary:** First attempt at capturing packets using the command line.  
