@@ -30,7 +30,7 @@ The goal of this journal is to sharpen my skills in:
 - **Summary:** First attempt at capturing packets using the command line.  
 - **Focus:** Understanding tcpdump syntax and command-line traffic analysis.  
 - **Key takeaway:** Challenging at first, but persistence and re-checking commands improved results.  
-- 🔗 [View detailed entry](./entries/entry-3.md)  
+- 🔗 [View detailed entry](https://github.com/dondex001/incident-handlers-journal/blob/main/Incident-handler's-journal-capture-packet.md)  
 
 ### Entry #4 – Investigating a Suspicious File Hash (VirusTotal)  
 - **Summary:** Analyzed a SHA-256 hash of a suspicious file attachment using VirusTotal.  
