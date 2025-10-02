@@ -36,7 +36,7 @@ The goal of this journal is to sharpen my skills in:
 - **Summary:** Analyzed a SHA-256 hash of a suspicious file attachment using VirusTotal.  
 - **Focus:** Applying threat intelligence tools to confirm malicious indicators.  
 - **Key takeaway:** Security awareness training and detection systems are critical for preventing such incidents.  
-- 🔗 [View detailed entry](./entries/entry-4.md)  
+- 🔗 [View detailed entry](https://github.com/dondex001/incident-handlers-journal/blob/main/Incident-handler's-journal-Investigate-suspicious-file-hash.md)  
 
 ---
 
